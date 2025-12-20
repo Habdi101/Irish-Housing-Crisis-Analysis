@@ -38,7 +38,7 @@ This project uses trusted national datasets to answer practical questions about 
 ### Residential Tenancies Board (RTB) – Rent Data
 - **Source:** data.gov.ie  
 - **Dataset:** Average Rent by County  
-- **Coverage:** Quarterly data (2016–2024)
+- **Coverage:** Quarterly data (2015–2025)
 
 **Key variables used:**
 - County  
